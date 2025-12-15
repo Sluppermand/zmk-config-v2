@@ -14,3 +14,4 @@ Cherry MX Hot Swap sockets with nice!nano
 - 5 extra GPIO pins (3 thru holes and 2 pads on the back) offering a total of 23 GPIO pins
 - 3.3V out of the VCC pin to power external features
 - 32.768 kHz oscillator on board for real-time clock capabilities
+
