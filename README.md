@@ -15,3 +15,4 @@ Cherry MX Hot Swap sockets with nice!nano
 - 3.3V out of the VCC pin to power external features
 - 32.768 kHz oscillator on board for real-time clock capabilities
 
+bump
